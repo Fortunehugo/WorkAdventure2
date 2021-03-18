@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/..\/program\/git\/WorkAdventure2\/map.json"
+         "target":"..\/..\/git\/WorkAdventure2\/map.json"
         }
     },
  "height":34,
@@ -150,7 +150,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/program\/git\/WorkAdventure2\/tilesets_deviant_milkian_1.png",
+         "image":"..\/..\/git\/WorkAdventure2\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -875,7 +875,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/program\/git\/WorkAdventure2\/floortileset.png",
+         "image":"..\/..\/git\/WorkAdventure2\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
